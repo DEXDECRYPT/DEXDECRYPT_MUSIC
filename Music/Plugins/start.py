@@ -50,15 +50,15 @@ Powered By [DEXDECRYPT BOT](t.me/dexdecrypt_music) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/V3N0M_0P/38"
+                        "ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅꜱ", url=f"https://t.me/DEXDECRYPT_MUSIC/15"
                     ),
                     InlineKeyboardButton(
-                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/VENOMxCRAZY5/VENOMxMUSIC"
+                        "ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ", url="https://github.com/DEXDECRYPT/DEXDECRYPT_MUSIC"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📢 ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/DEXDECRYPT_MUSIC"
                     ),
                     InlineKeyboardButton(
                         "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 🇮🇳", url=f"https://t.me/{ZAID_SUPPORT}"
@@ -73,7 +73,7 @@ Powered By [DEXDECRYPT BOT](t.me/dexdecrypt_music) ...
 @Client.on_message(commandpro(["/start", "/alive"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/e7cefcd224372e2aed239.png",
+        photo=f"https://telegra.ph/file/dd0659bc85cbca7afe0eb.jpg",
         caption=f"""Thanks For Adding Me To Ur Chat, For Any Query U Can Join Our Support Groups 🔥♥️""",
         reply_markup=InlineKeyboardMarkup(
             [
@@ -89,7 +89,7 @@ async def start(client: Client, message: Message):
 @Client.on_message(command(["repo", "source"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/f9a63f0811c00fcbc01bd.jpg",
+        photo=f"https://telegra.ph/file/dd0659bc85cbca7afe0eb.jpg",
         caption=f"""Here Is The Source Code Fork And Give Stars ✨""",
         reply_markup=InlineKeyboardMarkup(
             [
