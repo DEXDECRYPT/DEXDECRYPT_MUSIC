@@ -34,7 +34,7 @@
             "required": false,
             "value": "4e984ea35f854762dcde906dce426c2d"
         },
-        "ZAID_SUPPORT": {
+        "DEXDECRYPT_SUPPORT": {
             "description": "Ur Support Group Username",
             "required": false,
             "value": "Dost_hai_sab"
