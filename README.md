@@ -2,7 +2,7 @@
 
 ### 𝗗𝗘𝗫𝗗𝗘𝗖𝗥𝗬𝗣𝗧 𝗠𝗨𝗦𝗜𝗖 𝗜𝗦 𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 𝗣𝗥𝗢𝗝𝗘𝗖𝗧 𝗧𝗢 𝗙𝗨𝗖𝗞 𝗠𝗨𝗦𝗜𝗖 𝗢𝗡 𝗧𝗚 𝗩𝗖......
 
-<p align="center"><a href="https://t.me/DEXDECRYPT_MUSIC"><img src="https://telegra.ph/file/157008ef41c826ead773c.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/DEXDECRYPT_MUSIC"><img src="https://telegra.ph/file/283362003e570559ea619.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
